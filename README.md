@@ -2,7 +2,7 @@
 
 Buduję systemy AI, które pozyskują klientów: dane, wielokanałowy outreach (Instagram, e-mail, agent głosowy AI) i automatycznie przygotowana oferta. Od 2024 r. prowadzę własną działalność B2B, w której łączę sprzedaż z inżynierią.
 
-**30 klientów w 3 miesiące** · **52% odpowiedzi na zimne wiadomości** · **13 600+ rozmów agenta głosowego AI**
+**30 klientów w 2 miesiące** · **52% odpowiedzi na zimne wiadomości** · **13 600+ rozmów agenta głosowego AI**
 
 #### Projekty
 
