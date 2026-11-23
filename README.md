@@ -4,7 +4,10 @@ Buduję systemy AI, które pozyskują klientów: dane, wielokanałowy outreach (
 
 *I build AI systems that win customers: data, multichannel outreach and automated offers. Agentic AI, Clay, Vapi, Python.*
 
-**30 klientów w 2 miesiące** · **52% odpowiedzi na zimne wiadomości** · **1 000+ rozmów agenta głosowego AI dziennie**
+- **30 salonów beauty kupiło stronę www w 2 miesiące**, pozyskanych w całości przez mój system AI na Instagramie
+- **9 nowych firm-klientów i 42 wysłanych pracowników** dla agencji pracy dzięki AI SDR (scraping ofert, Clay, agent głosowy)
+- **1 000+ rozmów dziennie** prowadzonych przez agenta głosowego AI, ok. 97% taniej niż konsultant
+- **52% salonów odpisało na pierwszą wiadomość** (5 142 wysłanych z kilkunastu kont)
 
 #### Zacznij tutaj
 
