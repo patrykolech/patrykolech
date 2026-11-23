@@ -25,5 +25,3 @@ Buduję systemy AI, które pozyskują klientów: dane, wielokanałowy outreach (
 **Kod i dane:** Python, SQL, TypeScript, pandas, Playwright, Selenium, PostgreSQL, SQLite
 **Infrastruktura:** Docker, VPS (Linux, Windows), Google Cloud, AWS SES, GitHub Actions, Caddy, Cloudflare
 **GTM i marketing:** Clay, HubSpot, cold e-mail, Google Ads, Google Shopping, testy A/B
-
-📍 Słupsk · praca zdalna lub hybrydowa
