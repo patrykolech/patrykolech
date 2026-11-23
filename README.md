@@ -21,6 +21,6 @@ Buduję systemy AI, które pozyskują klientów: dane, wielokanałowy outreach (
 **Automatyzacja:** n8n, Make, Zapier, Vapi, Twilio, Telegram Bot API, Google Sheets API
 **Kod i dane:** Python, SQL, TypeScript, pandas, Playwright, Selenium, PostgreSQL, SQLite
 **Infrastruktura:** Docker, VPS (Linux, Windows), Google Cloud, AWS SES, GitHub Actions, Caddy, Cloudflare
-**Marketing:** Google Ads, Google Shopping, cold e-mail, HubSpot, testy A/B
+**GTM i marketing:** Clay, HubSpot, cold e-mail, Google Ads, Google Shopping, testy A/B
 
 📍 Słupsk · praca zdalna lub hybrydowa
